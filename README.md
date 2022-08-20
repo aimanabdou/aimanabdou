@@ -1,6 +1,8 @@
 # Information
 
-```text
+![Aiman Abdou ASCII Art Logo](img/aimanabdou-logo-terminal-ascii-art.svg "Aiman Abdou ASCII Art Logo")
+
+<!-- ```text
   .--------------------------------------------------------------------------.  
  /  .-.    ________  ___  _____ ______   ________  ________              .-.  \ 
 |  /   \  |\   __  \|\  \|\   _ \  _   \|\   __  \|\   ___  \           /   \  |
@@ -21,7 +23,7 @@
 \       |                                                              |       /
  \     /                                                                \     / 
   `---'                                                                  `---'  
-```
+``` -->
 
 ## About Me
 
